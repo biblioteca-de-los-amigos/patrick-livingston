@@ -1,4 +1,4 @@
-== Un Extracto de la Vida de Patrick Livingston
+== Una Selección de la Vida de Patrick Livingston
 
 Está en mi corazón declarar algo de lo que ha tenido que atravesar mi alma,
 por el bien de aquellos que están anhelando al Señor, y quienes,
@@ -295,7 +295,7 @@ juicio y condenación. La ira del Señor ardía en mí y no tenía victoria,
 y aunque a menudo la buscaba diligentemente con muchas lágrimas,
 aun así no podía obtenerla, porque me apartaba de eso en lo que se encontraba mi paz,
 y buscaba otra.
-Así agoté y fatigué mi espíritu y cuerpo natural, y traíaje gran angustia a mi alma.
+Así agoté y fatigué mi espíritu y cuerpo natural, y traje gran angustia a mi alma.
 
 Fue alrededor de este tiempo que al Señor le plació que
 escuchara a dos personas del pueblo llamado Cuáqueros,
@@ -637,11 +637,13 @@ llegarán a una mayor claridad de entendimiento, y a ver,
 que tanto nuestro testimonio de la luz como nuestro testimonio contra sus maestros,
 son verdaderos; y que el testimonio de ellos contra nosotros y contra la luz es falso.
 
-Objeción: Pero es algo peligroso y un gran mal,
+[.discourse-part]
+_Objeción:_ Pero es algo peligroso y un gran mal,
 tomar como luz verdadera y salvadora la que no lo es;
 porque eso sería engañar a nuestras propias almas.
 
-Respuesta:
+[.discourse-part]
+_Respuesta:_
 Así como es muy peligroso y destructivo tomar como luz verdadera la que no lo es,
 no es menos peligroso y destructivo rechazar y negar
 la luz verdadera cuando realmente lo es;
@@ -668,11 +670,13 @@ palabras y acciones, y que también los reprueba?
 Ese algo es la luz, y a esa luz deben prestarle atención, y en ella deben creer,
 de lo contrario no podrán llegar a Cristo o seguirlo verdaderamente.
 
-Objeción: Si esta es la luz verdadera y salvadora en la que todos debemos creer,
+[.discourse-part]
+_Objeción:_ Si esta es la luz verdadera y salvadora en la que todos debemos creer,
 ¿por qué no la experimentamos llevándonos fuera de los males,
 e introduciéndonos en las cosas buenas que ella nos muestra?
 
-Respuesta: "`Cristo vino a los suyos, y los suyos no lo recibieron,
+[.discourse-part]
+_Respuesta:_ "`Cristo vino a los suyos, y los suyos no lo recibieron,
 mas a todos los que lo recibieron, les dio poder para ser hechos hijos de Dios.`"^
 footnote:[Juan 1:11-12]
 Ahora, ¿por qué Él no les dio poder a los otros,
@@ -703,10 +707,12 @@ Y la luz también les muestra muchas cosas buenas que ellos no llegan a poseer,
 porque no la siguen con la intención de andar en ella, y por lo tanto,
 no siguen verdaderamente a Cristo.
 
-Objeción: ¿Podemos seguir la luz por nuestras propias fuerzas?
+[.discourse-part]
+_Objeción:_ ¿Podemos seguir la luz por nuestras propias fuerzas?
 ¿Cómo puede ser esto, si no tenemos ningún poder por nosotros mismos?
 
-Respuesta: Ustedes no pueden por sí mismos, sin Cristo, hacer nada que sea bueno.
+[.discourse-part]
+_Respuesta:_ Ustedes no pueden por sí mismos, sin Cristo, hacer nada que sea bueno.
 Pero hay tiempos y momentos de vida en los cuales el Señor Jesucristo, la Luz,
 viene y visita los corazones de las personas,
 y manifiesta en ellos (por el tiempo presente) lo que de Dios se puede conocer.^
@@ -785,7 +791,8 @@ sino que por su desobediencia a la luz y su abuso del poder,
 carecen del ejercicio del poder para la gloria de Dios,
 y para el consuelo de su propia alma.
 
-Objeción:
+[.discourse-part]
+_Objeción:_
 Pero yo no tengo poder sobre la maldad de mi corazón. Esta es mi aflicción y mi carga,
 y estaría contento de deshacerme de los pensamientos malos,
 ociosos y vanos que se levantan en mi mente, y sin embargo,
@@ -793,7 +800,8 @@ soy consciente de mi inhabilidad de vencerlos.
 ¿No se puede decir entonces,
 que carezco de poder sobre mis pensamientos y sobre la maldad de mi corazón?
 
-Respuesta: Tú tienes un poder que no usas, y por lo tanto,
+[.discourse-part]
+_Respuesta:_ Tú tienes un poder que no usas, y por lo tanto,
 solo careces del ejercicio de ese poder que ya tienes.
 Y mientras que tu mente no esté puesta en esa luz que Dios ha plantado en ti,
 y no aprendas a obedecer y a ser ejercitado por ella,
@@ -815,11 +823,13 @@ durante el día o tiempo de vida mientras el Espíritu del Señor contiende con 
 a ellos no les falta poder para vencer sus malos pensamientos,
 si creen en la luz y usan el poder que Dios les ha dado.
 
-Objeción:
+[.discourse-part]
+_Objeción:_
 Es cierto que encuentro un deseo de vencer la maldad de mis pensamientos y de mi corazón,
 pero aun así no encuentro el poder para hacerlo.
 
-Respuesta: Muchos profesan creer en Dios y en Cristo,
+[.discourse-part]
+_Respuesta:_ Muchos profesan creer en Dios y en Cristo,
 pero es necesario conocer y creer en la luz de Su
 vida y salvación que ha sido plantada en tu corazón,
 y que manifiesta el verdadero estado de tu corazón y tus pensamientos.
@@ -851,7 +861,8 @@ sino a medida que creas y andes en la luz de Cristo que está en ti.
 Y en verdad, puedes correr de una cosa a otra, pero todo será en vano,
 y al final serás sepultado en dolor.
 
-Objeción: Parece haber mucho peligro en ambos lados.
+[.discourse-part]
+_Objeción:_ Parece haber mucho peligro en ambos lados.
 Por un lado,
 está el peligro de estar de acuerdo y unirme a algo que _no_ es la luz verdadera y salvadora;
 y por el otro,
@@ -859,7 +870,8 @@ está el peligro de negar y despreciar eso que es la luz verdadera y salvadora.
 Y estando en tan grande aprieto, y careciendo de discernimiento respecto a qué unirme,
 ¿qué se puede hacer en este triste caso?
 
-Respuesta: No existe ese aprieto así como tú lo percibes,
+[.discourse-part]
+_Respuesta:_ No existe ese aprieto así como tú lo percibes,
 porque el camino es tanto fácil como placentero para la mente dispuesta,
 una que está real y verdaderamente dispuesta a entregarse a eso que es certero y seguro.
 Porque Dios no ha escondido de ti eso que es absolutamente
@@ -991,8 +1003,10 @@ paz brotando para la alegría de sus almas.
 Nada más por el momento,
 pero sigo siendo un amigo que desea buena salud para sus almas y para sus cuerpos.
 
+[.signed-section-signature]
 Patrick Livingston
 
+[.signed-section-context-close]
 Desde la prisión de la Casa de Hierro
 
 [.asterism]
@@ -1027,7 +1041,10 @@ Como una muestra de la nobleza y del inquebrantable coraje
 de este fiel hombre durante su extendido confinamiento,
 se adjunta el siguiente extracto.
 Fue tomado de una apelación que escribió a sus perseguidores desde la cárcel, titulado,
-"`Respecto a la Verdadera Adoración de Dios.`"
+_"`Respecto a la Verdadera Adoración de Dios.`"_
+
+[.embedded-content-document.address]
+--
 
 Pero sin importar lo que suframos,
 no podemos darle a ningún hombre u hombres lo que únicamente le pertenece a Cristo,
@@ -1099,6 +1116,8 @@ sino más bien en la cruz a mi voluntad; y todos pueden juzgar fácilmente,
 que no es muy placentero para el hombre natural ser encerrado
 por tanto tiempo en un lugar tan asqueroso como este.
 
+--
+
 Durante el estricto encarcelamiento de Amigos en el Tolbooth de Aberdeen,
 Patrick Livingston era uno de los más frecuentemente movidos,
 en el abundante amor Cristiano,
@@ -1121,6 +1140,9 @@ que abundaban en todas partes, incluso sobre sus camas y comida, lo cual,
 evidentemente tendía a poner la salud y la vida de ellos en peligro extremo.
 Es respecto a esta crueldad que Patrick Livingston escribe en el siguiente extracto:
 
+[.embedded-content-document.address]
+--
+
 Y en el noveno día de este mes, 1678,
 siendo movido a hablar algunas palabras de verdad
 y sobriedad desde la ventana de la prisión,
@@ -1135,7 +1157,7 @@ y me arrastraron con mi cabeza hacia abajo y mis
 pies hacia arriba hasta el tope de las escaleras.
 George Gray fue echado a la misma celda conmigo por hablarles a las personas,
 y poco tiempo después y por la misma razón,
-Andrew Jaffary fue llevado también a la Casa de Hierro,
+Andrew Jaffray fue llevado también a la Casa de Hierro,
 donde fuimos encarcelados juntos y nos cerraron la puerta noche y día,
 y no nos permitieron ir a la otra celda a comer con nuestros Amigos.
 
@@ -1221,13 +1243,21 @@ Y por lo tanto, los encomiendo todos a la gracia de Dios en sus propios corazone
 para que ella les enseñe a negar y a dejar toda impiedad y deseos mundanos,
 y a vivir sobria y justamente en este mundo presente.
 
+[.signed-section-closing]
 De un amigo de todas sus almas,
 
+[.signed-section-signature]
 Patrick Livingston.
 
+[.signed-section-context-close]
 Escrito desde la Prisión en Aberdeen
 
-Aparte de las varias y largas detenciones en prisiones de Escocia,
+--
+
+[.asterism]
+'''
+
+__Aparte de las varias y largas detenciones en prisiones de Escocia,
 Patrick Livingston también fue encarcelado por un tiempo considerable en Newgate,
 Londres, cerca del año 1684.
 En sus últimos años, se fue de Nottingham,
@@ -1243,9 +1273,9 @@ que jamás habían visto.
 En verdad, él fue maravillosamente sostenido por encima de todos los obstáculos,
 aunque su cuerpo estaba muy débil; de modo que,
 algunos llegaron a hablar de este último acto de servicio,
-como "`su cariñosa despedida de su parentela espiritual.`"
+como "`su cariñosa despedida de su parentela espiritual.`"__
 
-Muy pronto después de su regreso a casa de este viaje, se fue debilitando cada vez más,
+__Muy pronto después de su regreso a casa de este viaje, se fue debilitando cada vez más,
 hasta que partió de esta vida el día 15 del cuarto mes de 1694,
 en la casa de John Kirton, en Kensington, cerca de Londres.
 Varios Amigos estuvieron presentes con él en sus últimas horas,
@@ -1268,4 +1298,4 @@ porque así tenemos todo lo que necesitamos,
 y así hay un reposo en verdadera sumisión a la voluntad del Señor,
 en el que recostamos nuestras cabezas en paz y descanso con Él para siempre.
 Aquí se encuentra la verdadera victoria sobre la muerte, el infierno y el sepulcro,
-y un descanso en paz con el Señor por siempre!`"
+y un descanso en paz con el Señor por siempre!`"__
